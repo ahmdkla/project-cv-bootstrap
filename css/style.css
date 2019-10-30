@@ -54,7 +54,6 @@ body,html{
 .detailz .wrapper{
 	margin:0px;
 	display:flex;
-	flex-flow: row wrap;
 }
 
 .detailz .wrapper .item{
